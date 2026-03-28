@@ -1,4 +1,4 @@
-# ⚡ FlashHFreak
+# FLA⚡HFREAK
 
 A powerful frontend firewall + editor marketplace UI built using React.
 
