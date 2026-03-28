@@ -1,2 +1,12 @@
 # FLA-HFREAK
 FlashHFreak firewall + editor marketplace UI
+flashhfreak/
+│── src/
+│   ├── components/
+│   │   └── FlashHFreak.jsx
+│   ├── App.jsx
+│   └── main.jsx
+│── public/
+│── package.json
+│── README.md
+│── .gitignore
